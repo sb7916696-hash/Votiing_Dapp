@@ -1,0 +1,5 @@
+{
+  "name": "Aadhaar-Verified Voting DApp",
+  "description": "A decentralized voting system with hashed Aadhaar verification for secure and unique identity-based voting.",
+  "requestFramePermissions": []
+}
